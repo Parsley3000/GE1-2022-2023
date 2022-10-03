@@ -311,6 +311,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2034337706}
   - component: {fileID: 2034337707}
+  - component: {fileID: 2034337708}
   m_Layer: 0
   m_Name: spawner
   m_TagString: Untagged
@@ -347,3 +348,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   loops: 10
   prefab: {fileID: 0}
+--- !u!114 &2034337708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2034337704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc29f11ed7fd0414fb6918456fb9fe6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loops: 10
+  prefab: {fileID: 1524398484046735842, guid: bd57d9a8419a9064288fc3d8723891ea, type: 3}
