@@ -685,7 +685,7 @@ MonoBehaviour:
   numWaypoints: 5
   current: 0
   speed: 10
-  player: {fileID: 0}
+  player: {fileID: 1178152844}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
